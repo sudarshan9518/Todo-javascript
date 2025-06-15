@@ -1,6 +1,6 @@
-# SCT_Trackcode_Task_4
-
 # To-Do List App ✅
+
+
 
 This is a **To-Do List Application** built using **HTML, CSS, and JavaScript** as part of Task 4 in my **SkillCraft Internship**.
 The project helped me understand how JavaScript manages dynamic content and user interactions on the frontend.
